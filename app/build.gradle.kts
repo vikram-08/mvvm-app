@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.udemy.mvvm"
+    namespace = "com.example.mvvm"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.udemy.mvvm"
+        applicationId = "com.example.mvvm"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

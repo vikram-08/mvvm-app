@@ -1,4 +1,4 @@
-package com.udemy.mvvm
+package com.example.mvvm
 
 import androidx.compose.runtime.MutableState
 import androidx.compose.runtime.mutableStateOf

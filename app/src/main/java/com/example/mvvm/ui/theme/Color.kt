@@ -1,4 +1,4 @@
-package com.udemy.mvvm.ui.theme
+package com.example.mvvm.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

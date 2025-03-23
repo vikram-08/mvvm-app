@@ -1,4 +1,4 @@
-package com.udemy.mvvm
+package com.example.mvvm
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -20,7 +20,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.udemy.mvvm.ui.theme.MVVMTheme
+import com.example.mvvm.ui.theme.MVVMTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
